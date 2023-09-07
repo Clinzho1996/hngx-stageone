@@ -1,6 +1,6 @@
 const desiredTime = new Date();
 desiredTime.setUTCHours(8);
-desiredTime.setUTCMinutes(2);
+desiredTime.setUTCMinutes(15);
 desiredTime.setUTCSeconds(0);
 
 const timestamp = desiredTime.getTime();
